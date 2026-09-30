@@ -1,0 +1,5 @@
+{
+  "summary": "Offline batch sync service with per-item idempotency and conflict resolution",
+  "updatedAt": "2026-09-30T11:10:57.297494Z",
+  "userFacing": true
+}

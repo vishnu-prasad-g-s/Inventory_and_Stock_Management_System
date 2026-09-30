@@ -1,0 +1,5 @@
+{
+  "summary": "Production health check and readiness service verifying DB, queue, and ledger status",
+  "updatedAt": "2026-09-30T11:11:52.567118Z",
+  "userFacing": true
+}

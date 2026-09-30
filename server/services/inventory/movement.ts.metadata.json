@@ -1,0 +1,5 @@
+{
+  "summary": "Core stock movement engine (movement.ts) implementing single guarded atomic update and signed hash ledger",
+  "updatedAt": "2026-09-30T10:38:29.588970Z",
+  "userFacing": true
+}

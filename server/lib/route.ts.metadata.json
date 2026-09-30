@@ -1,0 +1,5 @@
+{
+  "summary": "Unified API route wrapper enforcing auth, RBAC, Zod validation, idempotency, and error formatting",
+  "updatedAt": "2026-09-30T06:58:00.867561Z",
+  "userFacing": true
+}

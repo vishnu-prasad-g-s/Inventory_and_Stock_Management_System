@@ -1,0 +1,5 @@
+{
+  "summary": "Unit tests for demand forecasting moving average, WAPE calculation, reorder engine, and assistant tools",
+  "updatedAt": "2026-09-30T11:10:10.490664Z",
+  "userFacing": true
+}

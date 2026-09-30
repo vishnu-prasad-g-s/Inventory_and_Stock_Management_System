@@ -1,0 +1,5 @@
+{
+  "summary": "Demand forecasting engine with moving average, seasonal naive, and WAPE backtesting",
+  "updatedAt": "2026-09-30T11:09:40.132863Z",
+  "userFacing": true
+}

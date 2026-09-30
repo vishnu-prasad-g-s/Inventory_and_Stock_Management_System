@@ -1,0 +1,5 @@
+{
+  "summary": "Background worker process entrypoint using pg-boss for job processing",
+  "updatedAt": "2026-09-30T10:36:10.662036Z",
+  "userFacing": true
+}
