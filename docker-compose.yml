@@ -1,5 +1,3 @@
-version: '3.8'
-
 services:
   postgres:
     image: postgres:16
@@ -20,7 +18,7 @@ services:
       retries: 5
 
   minio:
-    image: minio/minio
+    image: cgr.dev/chainguard/minio:latest
     container_name: stockpilot_minio
     restart: always
     command: server /data --console-address ":9001"
